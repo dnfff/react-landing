@@ -1,0 +1,15 @@
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);    
+}
+
+.content {
+    width: 75%;
+    height: 100vh;
+    color: black;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+}
